@@ -1,5 +1,7 @@
 # ポークジンジャーカレー
 
+<img src="https://pbs.twimg.com/media/EPPqZI0UcAERyL5?format=jpg&name=medium" width="320">
+
 ## 材料
 
 ### 主菜 
