@@ -4,7 +4,7 @@
 ## カレー
 - [ポークジンジャーカレー](./pork_ginger_curry.md)
 - [チキンカレー](./chicken_curry.md)
-- [チキンカレー](./saba_minputu.md)
+- [鯖缶ミーンプットゥ](./saba_minputu.md)
 
 ## マサラ
 - [いつものマサラ](./masara.md)
